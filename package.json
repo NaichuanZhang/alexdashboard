@@ -4,12 +4,21 @@
   "private": true,
   "dependencies": {
     "@bit/bondz.react-epic-spinners.atom-spinner": "^0.3.0",
+    "@bit/grommet.grommet.clock": "^2.6.5",
     "@bit/primefaces.primereact.chart": "^3.1.0",
+    "@typescript-eslint/parser": "^1.10.2",
+    "axios": "^0.19.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.3.1",
+    "ts-pnp": "^1.1.2",
+    "tsutils": "^3.14.0",
+    "typescript": "^3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
